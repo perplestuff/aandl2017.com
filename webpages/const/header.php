@@ -7,6 +7,6 @@
         <meta name="author" content="Perple Seagres">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" href="">
-		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="webpages/const/css/main.css" type="text/css">
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	</head>
